@@ -10,6 +10,8 @@ flask = "*"
 requests = "*"
 schedule = "*"
 github3-py = "*"
+pony = "*"
+black = "*"
 
 [requires]
 python_version = "3.7"
